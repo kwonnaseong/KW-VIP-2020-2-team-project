@@ -1,0 +1,346 @@
+/home/kwonnaseong/darknet/data/img/1.jpg
+/home/kwonnaseong/darknet/data/img/10.jpg
+/home/kwonnaseong/darknet/data/img/100.jpg
+/home/kwonnaseong/darknet/data/img/11.jpg
+/home/kwonnaseong/darknet/data/img/12.jpg
+/home/kwonnaseong/darknet/data/img/13.jpg
+/home/kwonnaseong/darknet/data/img/14.jpg
+/home/kwonnaseong/darknet/data/img/15.jpg
+/home/kwonnaseong/darknet/data/img/16.jpg
+/home/kwonnaseong/darknet/data/img/17.jpg
+/home/kwonnaseong/darknet/data/img/18.jpg
+/home/kwonnaseong/darknet/data/img/19.jpg
+/home/kwonnaseong/darknet/data/img/2.jpg
+/home/kwonnaseong/darknet/data/img/20.jpg
+/home/kwonnaseong/darknet/data/img/21.jpg
+/home/kwonnaseong/darknet/data/img/22.jpg
+/home/kwonnaseong/darknet/data/img/23.jpg
+/home/kwonnaseong/darknet/data/img/24.jpg
+/home/kwonnaseong/darknet/data/img/25.jpg
+/home/kwonnaseong/darknet/data/img/26.jpg
+/home/kwonnaseong/darknet/data/img/27.jpg
+/home/kwonnaseong/darknet/data/img/28.jpg
+/home/kwonnaseong/darknet/data/img/29.jpg
+/home/kwonnaseong/darknet/data/img/3.jpg
+/home/kwonnaseong/darknet/data/img/30.jpg
+/home/kwonnaseong/darknet/data/img/31.jpg
+/home/kwonnaseong/darknet/data/img/32.jpg
+/home/kwonnaseong/darknet/data/img/33.jpg
+/home/kwonnaseong/darknet/data/img/34.jpg
+/home/kwonnaseong/darknet/data/img/35.jpg
+/home/kwonnaseong/darknet/data/img/36.jpg
+/home/kwonnaseong/darknet/data/img/37.jpg
+/home/kwonnaseong/darknet/data/img/38.jpg
+/home/kwonnaseong/darknet/data/img/39.jpg
+/home/kwonnaseong/darknet/data/img/4.jpg
+/home/kwonnaseong/darknet/data/img/40.jpg
+/home/kwonnaseong/darknet/data/img/41.jpg
+/home/kwonnaseong/darknet/data/img/42.jpg
+/home/kwonnaseong/darknet/data/img/43.jpg
+/home/kwonnaseong/darknet/data/img/44.jpg
+/home/kwonnaseong/darknet/data/img/45.jpg
+/home/kwonnaseong/darknet/data/img/46.jpg
+/home/kwonnaseong/darknet/data/img/47.jpg
+/home/kwonnaseong/darknet/data/img/48.jpg
+/home/kwonnaseong/darknet/data/img/49.jpg
+/home/kwonnaseong/darknet/data/img/5.jpg
+/home/kwonnaseong/darknet/data/img/50.jpg
+/home/kwonnaseong/darknet/data/img/51.jpg
+/home/kwonnaseong/darknet/data/img/52.jpg
+/home/kwonnaseong/darknet/data/img/53.jpg
+/home/kwonnaseong/darknet/data/img/54.jpg
+/home/kwonnaseong/darknet/data/img/55.jpg
+/home/kwonnaseong/darknet/data/img/56.jpg
+/home/kwonnaseong/darknet/data/img/57.jpg
+/home/kwonnaseong/darknet/data/img/58.jpg
+/home/kwonnaseong/darknet/data/img/59.jpg
+/home/kwonnaseong/darknet/data/img/6.jpg
+/home/kwonnaseong/darknet/data/img/60.jpg
+/home/kwonnaseong/darknet/data/img/61.jpg
+/home/kwonnaseong/darknet/data/img/62.jpg
+/home/kwonnaseong/darknet/data/img/63.jpg
+/home/kwonnaseong/darknet/data/img/64.jpg
+/home/kwonnaseong/darknet/data/img/65.jpg
+/home/kwonnaseong/darknet/data/img/66.jpg
+/home/kwonnaseong/darknet/data/img/67.jpg
+/home/kwonnaseong/darknet/data/img/68.jpg
+/home/kwonnaseong/darknet/data/img/69.jpg
+/home/kwonnaseong/darknet/data/img/7.jpg
+/home/kwonnaseong/darknet/data/img/70.jpg
+/home/kwonnaseong/darknet/data/img/71.jpg
+/home/kwonnaseong/darknet/data/img/72.jpg
+/home/kwonnaseong/darknet/data/img/73.jpg
+/home/kwonnaseong/darknet/data/img/74.jpg
+/home/kwonnaseong/darknet/data/img/75.jpg
+/home/kwonnaseong/darknet/data/img/76.jpg
+/home/kwonnaseong/darknet/data/img/77.jpg
+/home/kwonnaseong/darknet/data/img/78.jpg
+/home/kwonnaseong/darknet/data/img/79.jpg
+/home/kwonnaseong/darknet/data/img/8.jpg
+/home/kwonnaseong/darknet/data/img/80.jpg
+/home/kwonnaseong/darknet/data/img/81.jpg
+/home/kwonnaseong/darknet/data/img/82.jpg
+/home/kwonnaseong/darknet/data/img/83.jpg
+/home/kwonnaseong/darknet/data/img/84.jpg
+/home/kwonnaseong/darknet/data/img/85.jpg
+/home/kwonnaseong/darknet/data/img/86.jpg
+/home/kwonnaseong/darknet/data/img/87.jpg
+/home/kwonnaseong/darknet/data/img/88.jpg
+/home/kwonnaseong/darknet/data/img/89.jpg
+/home/kwonnaseong/darknet/data/img/9.jpg
+/home/kwonnaseong/darknet/data/img/IMG_4638.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4639.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4640.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4641.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4642.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4643.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4644.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4645.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4646.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4647.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4648.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4649.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4650.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4651.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4652.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4653.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4654.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4655.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4656.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4657.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4658.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4659.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4660.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4661.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4662.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4663.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4664.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4665.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4666.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4667.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4668.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4669.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4670.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4671.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4672.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4673.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4674.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4675.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4676.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4677.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4678.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4679.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4680.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4681.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4682.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4683.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4684.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4685.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4686.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4687.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4688.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4689.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4690.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4691.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4692.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4693.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4694.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4695.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4696.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4697.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4698.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4699.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4700.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4701.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4702.PNG
+/home/kwonnaseong/darknet/data/img/IMG_4703.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4704.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4705.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4706.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4707.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4708.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4709.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4710.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4711.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4712.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4713.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4714.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4715.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4716.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4717.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4718.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4719.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4720.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4721.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4722.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4723.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4724.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4725.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4726.JPG
+/home/kwonnaseong/darknet/data/img/IMG_4727.JPG
+/home/kwonnaseong/darknet/data/img/owner (1).jpg
+/home/kwonnaseong/darknet/data/img/owner (10).jpg
+/home/kwonnaseong/darknet/data/img/owner (11).jpg
+/home/kwonnaseong/darknet/data/img/owner (12).jpg
+/home/kwonnaseong/darknet/data/img/owner (13).jpg
+/home/kwonnaseong/darknet/data/img/owner (14).jpg
+/home/kwonnaseong/darknet/data/img/owner (15).jpg
+/home/kwonnaseong/darknet/data/img/owner (16).jpg
+/home/kwonnaseong/darknet/data/img/owner (17).jpg
+/home/kwonnaseong/darknet/data/img/owner (18).jpg
+/home/kwonnaseong/darknet/data/img/owner (19).jpg
+/home/kwonnaseong/darknet/data/img/owner (2).jpg
+/home/kwonnaseong/darknet/data/img/owner (20).jpg
+/home/kwonnaseong/darknet/data/img/owner (21).jpg
+/home/kwonnaseong/darknet/data/img/owner (22).jpg
+/home/kwonnaseong/darknet/data/img/owner (23).jpg
+/home/kwonnaseong/darknet/data/img/owner (24).jpg
+/home/kwonnaseong/darknet/data/img/owner (25).jpg
+/home/kwonnaseong/darknet/data/img/owner (26).jpg
+/home/kwonnaseong/darknet/data/img/owner (27).jpg
+/home/kwonnaseong/darknet/data/img/owner (28).jpg
+/home/kwonnaseong/darknet/data/img/owner (29).jpg
+/home/kwonnaseong/darknet/data/img/owner (3).jpg
+/home/kwonnaseong/darknet/data/img/owner (30).jpg
+/home/kwonnaseong/darknet/data/img/owner (31).jpg
+/home/kwonnaseong/darknet/data/img/owner (32).jpg
+/home/kwonnaseong/darknet/data/img/owner (33).jpg
+/home/kwonnaseong/darknet/data/img/owner (34).jpg
+/home/kwonnaseong/darknet/data/img/owner (35).jpg
+/home/kwonnaseong/darknet/data/img/owner (36).jpg
+/home/kwonnaseong/darknet/data/img/owner (37).jpg
+/home/kwonnaseong/darknet/data/img/owner (38).jpg
+/home/kwonnaseong/darknet/data/img/owner (39).jpg
+/home/kwonnaseong/darknet/data/img/owner (4).jpg
+/home/kwonnaseong/darknet/data/img/owner (40).jpg
+/home/kwonnaseong/darknet/data/img/owner (41).jpg
+/home/kwonnaseong/darknet/data/img/owner (42).jpg
+/home/kwonnaseong/darknet/data/img/owner (43).jpg
+/home/kwonnaseong/darknet/data/img/owner (45).jpg
+/home/kwonnaseong/darknet/data/img/owner (5).jpg
+/home/kwonnaseong/darknet/data/img/owner (50).jpg
+/home/kwonnaseong/darknet/data/img/owner (51).jpg
+/home/kwonnaseong/darknet/data/img/owner (52).jpg
+/home/kwonnaseong/darknet/data/img/owner (53).jpg
+/home/kwonnaseong/darknet/data/img/owner (54).jpg
+/home/kwonnaseong/darknet/data/img/owner (55).jpg
+/home/kwonnaseong/darknet/data/img/owner (56).jpg
+/home/kwonnaseong/darknet/data/img/owner (57).jpg
+/home/kwonnaseong/darknet/data/img/owner (58).jpg
+/home/kwonnaseong/darknet/data/img/owner (59).jpg
+/home/kwonnaseong/darknet/data/img/owner (6).jpg
+/home/kwonnaseong/darknet/data/img/owner (60).jpg
+/home/kwonnaseong/darknet/data/img/owner (61).jpg
+/home/kwonnaseong/darknet/data/img/owner (62).jpg
+/home/kwonnaseong/darknet/data/img/owner (63).jpg
+/home/kwonnaseong/darknet/data/img/owner (64).jpg
+/home/kwonnaseong/darknet/data/img/owner (65).jpg
+/home/kwonnaseong/darknet/data/img/owner (66).jpg
+/home/kwonnaseong/darknet/data/img/owner (67).jpg
+/home/kwonnaseong/darknet/data/img/owner (68).jpg
+/home/kwonnaseong/darknet/data/img/owner (69).jpg
+/home/kwonnaseong/darknet/data/img/owner (7).jpg
+/home/kwonnaseong/darknet/data/img/owner (70).jpg
+/home/kwonnaseong/darknet/data/img/owner (71).jpg
+/home/kwonnaseong/darknet/data/img/owner (72).jpg
+/home/kwonnaseong/darknet/data/img/owner (73).jpg
+/home/kwonnaseong/darknet/data/img/owner (74).jpg
+/home/kwonnaseong/darknet/data/img/owner (75).jpg
+/home/kwonnaseong/darknet/data/img/owner (76).jpg
+/home/kwonnaseong/darknet/data/img/owner (77).jpg
+/home/kwonnaseong/darknet/data/img/owner (78).jpg
+/home/kwonnaseong/darknet/data/img/owner (79).jpg
+/home/kwonnaseong/darknet/data/img/owner (8).jpg
+/home/kwonnaseong/darknet/data/img/owner (80).jpg
+/home/kwonnaseong/darknet/data/img/owner (81).jpg
+/home/kwonnaseong/darknet/data/img/ss (1).JPG
+/home/kwonnaseong/darknet/data/img/ss (10).JPG
+/home/kwonnaseong/darknet/data/img/ss (11).JPG
+/home/kwonnaseong/darknet/data/img/ss (12).JPG
+/home/kwonnaseong/darknet/data/img/ss (13).JPG
+/home/kwonnaseong/darknet/data/img/ss (14).JPG
+/home/kwonnaseong/darknet/data/img/ss (15).JPG
+/home/kwonnaseong/darknet/data/img/ss (16).JPG
+/home/kwonnaseong/darknet/data/img/ss (17).JPG
+/home/kwonnaseong/darknet/data/img/ss (18).JPG
+/home/kwonnaseong/darknet/data/img/ss (19).JPG
+/home/kwonnaseong/darknet/data/img/ss (2).JPG
+/home/kwonnaseong/darknet/data/img/ss (20).JPG
+/home/kwonnaseong/darknet/data/img/ss (21).JPG
+/home/kwonnaseong/darknet/data/img/ss (22).JPG
+/home/kwonnaseong/darknet/data/img/ss (23).JPG
+/home/kwonnaseong/darknet/data/img/ss (24).JPG
+/home/kwonnaseong/darknet/data/img/ss (25).JPG
+/home/kwonnaseong/darknet/data/img/ss (26).JPG
+/home/kwonnaseong/darknet/data/img/ss (27).JPG
+/home/kwonnaseong/darknet/data/img/ss (28).JPG
+/home/kwonnaseong/darknet/data/img/ss (29).JPG
+/home/kwonnaseong/darknet/data/img/ss (3).JPG
+/home/kwonnaseong/darknet/data/img/ss (30).JPG
+/home/kwonnaseong/darknet/data/img/ss (31).JPG
+/home/kwonnaseong/darknet/data/img/ss (32).JPG
+/home/kwonnaseong/darknet/data/img/ss (33).JPG
+/home/kwonnaseong/darknet/data/img/ss (34).JPG
+/home/kwonnaseong/darknet/data/img/ss (35).JPG
+/home/kwonnaseong/darknet/data/img/ss (36).JPG
+/home/kwonnaseong/darknet/data/img/ss (37).JPG
+/home/kwonnaseong/darknet/data/img/ss (38).JPG
+/home/kwonnaseong/darknet/data/img/ss (39).JPG
+/home/kwonnaseong/darknet/data/img/ss (4).JPG
+/home/kwonnaseong/darknet/data/img/ss (40).JPG
+/home/kwonnaseong/darknet/data/img/ss (41).JPG
+/home/kwonnaseong/darknet/data/img/ss (42).JPG
+/home/kwonnaseong/darknet/data/img/ss (43).JPG
+/home/kwonnaseong/darknet/data/img/ss (44).JPG
+/home/kwonnaseong/darknet/data/img/ss (45).JPG
+/home/kwonnaseong/darknet/data/img/ss (46).JPG
+/home/kwonnaseong/darknet/data/img/ss (47).JPG
+/home/kwonnaseong/darknet/data/img/ss (48).JPG
+/home/kwonnaseong/darknet/data/img/ss (49).JPG
+/home/kwonnaseong/darknet/data/img/ss (5).JPG
+/home/kwonnaseong/darknet/data/img/ss (50).JPG
+/home/kwonnaseong/darknet/data/img/ss (51).JPG
+/home/kwonnaseong/darknet/data/img/ss (52).JPG
+/home/kwonnaseong/darknet/data/img/ss (53).JPG
+/home/kwonnaseong/darknet/data/img/ss (54).JPG
+/home/kwonnaseong/darknet/data/img/ss (55).JPG
+/home/kwonnaseong/darknet/data/img/ss (56).JPG
+/home/kwonnaseong/darknet/data/img/ss (57).JPG
+/home/kwonnaseong/darknet/data/img/ss (58).JPG
+/home/kwonnaseong/darknet/data/img/ss (59).JPG
+/home/kwonnaseong/darknet/data/img/ss (6).JPG
+/home/kwonnaseong/darknet/data/img/ss (60).JPG
+/home/kwonnaseong/darknet/data/img/ss (61).JPG
+/home/kwonnaseong/darknet/data/img/ss (62).JPG
+/home/kwonnaseong/darknet/data/img/ss (63).JPG
+/home/kwonnaseong/darknet/data/img/ss (64).JPG
+/home/kwonnaseong/darknet/data/img/ss (65).JPG
+/home/kwonnaseong/darknet/data/img/ss (66).JPG
+/home/kwonnaseong/darknet/data/img/ss (67).JPG
+/home/kwonnaseong/darknet/data/img/ss (68).JPG
+/home/kwonnaseong/darknet/data/img/ss (69).JPG
+/home/kwonnaseong/darknet/data/img/ss (7).JPG
+/home/kwonnaseong/darknet/data/img/ss (8).JPG
+/home/kwonnaseong/darknet/data/img/ss (9).JPG
+/home/kwonnaseong/darknet/data/img/ssi (1).PNG
+/home/kwonnaseong/darknet/data/img/ssi (10).PNG
+/home/kwonnaseong/darknet/data/img/ssi (11).PNG
+/home/kwonnaseong/darknet/data/img/ssi (12).PNG
+/home/kwonnaseong/darknet/data/img/ssi (13).PNG
+/home/kwonnaseong/darknet/data/img/ssi (14).PNG
+/home/kwonnaseong/darknet/data/img/ssi (15).PNG
+/home/kwonnaseong/darknet/data/img/ssi (16).PNG
+/home/kwonnaseong/darknet/data/img/ssi (17).PNG
+/home/kwonnaseong/darknet/data/img/ssi (18).PNG
+/home/kwonnaseong/darknet/data/img/ssi (19).PNG
+/home/kwonnaseong/darknet/data/img/ssi (2).PNG
+/home/kwonnaseong/darknet/data/img/ssi (20).PNG
+/home/kwonnaseong/darknet/data/img/ssi (21).PNG
+/home/kwonnaseong/darknet/data/img/ssi (22).PNG
+/home/kwonnaseong/darknet/data/img/ssi (23).PNG
+/home/kwonnaseong/darknet/data/img/ssi (24).PNG
+/home/kwonnaseong/darknet/data/img/ssi (25).PNG
+/home/kwonnaseong/darknet/data/img/ssi (26).PNG
+/home/kwonnaseong/darknet/data/img/ssi (27).PNG
+/home/kwonnaseong/darknet/data/img/ssi (28).PNG
+/home/kwonnaseong/darknet/data/img/ssi (29).PNG
