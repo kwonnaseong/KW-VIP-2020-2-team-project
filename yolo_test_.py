@@ -2,6 +2,8 @@ import darknet
 import numpy as np
 import cv2
 import time
+import smtplib
+from email.mime.text import MIMEText
 
 # load configure file, dataset, pre-weights
 net, cn, color = darknet.load_network('yolov3-tiny.cfg', 'coco.data', 'yolov3-tiny_10000.weights')
@@ -10,6 +12,30 @@ height = darknet.network_height(net)
 darknet_image = darknet.make_image(width, height, 3)
 
 cap = cv2.VideoCapture(0) # video capture
+
+sendEmail = "jji1902@naver.com"
+recvEmail = "jji1902@naver.com"
+password = "wldus0509!"
+label_name="jjy"
+
+def send_mail(sendEmail,recvEmail,password,label_name):
+    smtpName = "smtp.naver.com" #smtp 서버 주소
+    smtpPort = 587 #smtp 포트 번호
+
+    text = label_name+"님이 귀가하셨습니다."
+    msg = MIMEText(text) #MIMEText(text , _charset = "utf8")
+
+    msg['Subject'] =label_name+"님 귀가"
+    msg['From'] = sendEmail
+    msg['To'] = recvEmail
+    print(msg.as_string())
+
+    s=smtplib.SMTP( smtpName , smtpPort ) #메일 서버 연결
+    s.starttls() #TLS 보안 처리
+    s.login( sendEmail , password ) #로그인
+    s.sendmail( sendEmail, recvEmail, msg.as_string() ) #메일 전송, 문자열로 변환하여 보냅니다.
+    s.close() #smtp 서버 연결을 종료합니다.
+
 
 print('capped!')        
 prevTime = 0
@@ -40,6 +66,7 @@ while(cap.isOpened()):
 		for found in r: # for all detected obj
 			label_name, prob, loc = found[0], found[1], found[2] # get label name, probablility, location
 			print label_name
+			send_mail(sendEmail,recvEmail,password,label_name)
 		
 		k = cv2.waitKey(1)
 		if k == 27:
