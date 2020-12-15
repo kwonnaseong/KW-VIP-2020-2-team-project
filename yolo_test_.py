@@ -15,10 +15,10 @@ print('capped!')
 prevTime = 0
 fpss = []
 while(cap.isOpened()):
-        ret, frame = cap.read() # read capture video frame
+        ret, frame = cap.read() # read capture video frame 재생되는 비디오의 한 프레임씩 읽어옴
 	if ret: # ture: read frame successed, false: read frame failed
 		
-		# get FPS
+		# get FPS 초당 프레임
 		curTime = time.time()
 		sec = curTime - prevTime
 		prevTime = curTime
@@ -28,8 +28,8 @@ while(cap.isOpened()):
 		str = "FPS : %0.1f" % avr_fps
 
 		frame_resized = cv2.resize(frame, (width, height), interpolation=cv2.INTER_LINEAR) # resize image
-		frame_rgb = cv2.cvtColor(frame_resized, cv2.COLOR_BGR2RGB) # change bgr image 2 rgb image
-		darknet.copy_image_from_bytes(darknet_image, frame_rgb.tobytes())
+		frame_rgb = cv2.cvtColor(frame_resized, cv2.COLOR_BGR2RGB) # change bgr image 2 rgb image rgb로 변환
+		darknet.copy_image_from_bytes(darknet_image, frame_rgb.tobytes())#byte형식으로 바꿔줌
 		r = darknet.detect_image(net, cn, darknet_image) # detect obj from image 
 		image = darknet.draw_boxes(r, frame_resized, color) # draw box on the image
 		
