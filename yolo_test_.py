@@ -67,7 +67,7 @@ while(cap.isOpened()):
 		for found in r: # for all detected obj
 			label_name, prob, loc = found[0], found[1], found[2] # get label name, probablility, location
 			print(label_name)
-			if count >10:
+			if count >9:
 				send_mail(sendEmail,recvEmail,password,label_name)
 				count = 0
 		count = count+1
