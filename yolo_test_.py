@@ -40,6 +40,7 @@ def send_mail(sendEmail,recvEmail,password,label_name):
 print('capped!')        
 prevTime = 0
 fpss = []
+count = 10
 while(cap.isOpened()):
 	ret, frame = cap.read() # read capture video frame
 	if ret: # ture: read frame successed, false: read frame failed
@@ -66,7 +67,10 @@ while(cap.isOpened()):
 		for found in r: # for all detected obj
 			label_name, prob, loc = found[0], found[1], found[2] # get label name, probablility, location
 			print(label_name)
-			send_mail(sendEmail,recvEmail,password,label_name)
+			if count >10:
+				send_mail(sendEmail,recvEmail,password,label_name)
+				count = 0
+		count = count+1
 		
 		k = cv2.waitKey(1)
 		if k == 27:
