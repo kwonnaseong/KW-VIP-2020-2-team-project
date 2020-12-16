@@ -41,7 +41,7 @@ print('capped!')
 prevTime = 0
 fpss = []
 while(cap.isOpened()):
-        ret, frame = cap.read() # read capture video frame
+	ret, frame = cap.read() # read capture video frame
 	if ret: # ture: read frame successed, false: read frame failed
 		
 		# get FPS
@@ -65,7 +65,7 @@ while(cap.isOpened()):
 		cv2.imshow('show',image)
 		for found in r: # for all detected obj
 			label_name, prob, loc = found[0], found[1], found[2] # get label name, probablility, location
-			print label_name
+			print(label_name)
 			send_mail(sendEmail,recvEmail,password,label_name)
 		
 		k = cv2.waitKey(1)
