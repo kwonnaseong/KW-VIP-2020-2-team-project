@@ -54,18 +54,18 @@ while(cap.isOpened()):
 		avr_fps = sum(fpss)/len(fpss)
 		str = "FPS : %0.1f" % avr_fps
 
-		frame_resized = cv2.resize(frame, (width, height), interpolation=cv2.INTER_LINEAR) # resize image
+		frame_resized = cv2.resize(frame, (width, height), interpolation=cv2.INTER_LINEAR) # resize image for network input
 		frame_rgb = cv2.cvtColor(frame_resized, cv2.COLOR_BGR2RGB) # change bgr image 2 rgb image
 		darknet.copy_image_from_bytes(darknet_image, frame_rgb.tobytes())
-		r = darknet.detect_image(net, cn, darknet_image) # detect obj from image 
+		r = darknet.detect_image(net, cn, darknet_image) # detect obj from image, r = [label_name, probability, location[x, y, width, height]]]
 		image = darknet.draw_boxes(r, frame_resized, color) # draw box on the image
 		
-		#image = cv2.resize(image, (len(frame[0])/4, len(frame)/4)) 
+		#image = cv2.resize(image, (len(frame[0])/4, len(frame)/4)) # restore image to initial image size
 
 		cv2.putText(image, str, (5, 25), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255)) # put fps text on image
 		cv2.imshow('show',image)
 		for found in r: # for all detected obj
-			label_name, prob, loc = found[0], found[1], found[2] # get label name, probablility, location
+			label_name, prob, loc = found[0], found[1], found[2] # split r to label name, probablility, location
 			print(label_name)
 			if count >9:
 				send_mail(sendEmail,recvEmail,password,label_name)
