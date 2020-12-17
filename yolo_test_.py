@@ -72,11 +72,11 @@ while(cap.isOpened()):
 				count = 0
 		count = count+1
 		
-		k = cv2.waitKey(1)
-		if k == 27:
+		k = cv2.waitKey(1) # wait and get keyboard signal
+		if k == 27: # if 'esc' clicked, 
 			break
-		elif k == ord('s'):
-			cv2.imwrite('saved_image.png',image)
+		elif k == ord('s'): # if 's' clicked,
+			cv2.imwrite('saved_image.png',image) # save image
 	else:
 		print('No Frame')
 		break
