@@ -2,16 +2,16 @@
 KW VIP 2020-2 team project
 
 ## YoloV3 training 
-데이터셋 : 팀원 4명의 얼굴 ( 클래스 : 4 ) 
+데이터셋 : 팀원 1명의 얼굴 ( 클래스 : 1 ) 
 1. cfg/yolov3-tiny.cfg 파일
---> 마지막 Convolution layer filters = 27 ( = (4+5)*3 ) 로 수정
---> yolo classes = 4 로 수정
+--> 마지막 Convolution layer filters = 18 ( = (1+5)*3 ) 로 수정
+--> yolo classes = 1 로 수정
 
 2. cfg/coco.data 파일
 --> train, valid 위치 변경 (데이터셋 저장되어있는 위치로 변경)
 
 3. data/coco.names 파일
---> 클래스 이름 추가 (4명의 라벨 이름 추가 ex) owner , ss, jjy, Michael Kim )
+--> 클래스 이름 추가 (1명의 라벨 이름 추가 ex) daughter )
 
 4. data/img 폴더
 --> 이미지(png, jpg), 이미지 어노테이션 파일(txt) 저장
